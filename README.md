@@ -10,7 +10,7 @@ Cara Menjalankan
 
 * Install Python
 * Jalankan file:
-  python static_dynamic.py
+  python static.py atau dynamic.py
 
 Hasil
 
